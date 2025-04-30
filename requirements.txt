@@ -13,3 +13,4 @@ scipy~=1.9
 shapely~=1.8
 spacy~=3.4
 tensorflow~=2.9
+numpy~=1.26
